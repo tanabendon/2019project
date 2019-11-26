@@ -1,0 +1,83 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "功能選單",
+  "chatBarText": "功能選單",
+  "areas": [
+    {
+      "bounds": {
+        "x": 0,
+        "y": 0,
+        "width": 856,
+        "height": 856
+      },
+      "action": {
+        "type": "message",
+        "text": "描述搜尋"
+      }
+    },
+    {
+      "bounds": {
+        "x": 852,
+        "y": 0,
+        "width": 805,
+        "height": 856
+      },
+      "action": {
+        "type": "message",
+        "text": "職缺氣象"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1653,
+        "y": 0,
+        "width": 842,
+        "height": 856
+      },
+      "action": {
+        "type": "message",
+        "text": "薪資預測"
+      }
+    },
+    {
+      "bounds": {
+        "x": 0,
+        "y": 852,
+        "width": 856,
+        "height": 834
+      },
+      "action": {
+        "type": "message",
+        "text": "相由心生"
+      }
+    },
+    {
+      "bounds": {
+        "x": 852,
+        "y": 852,
+        "width": 805,
+        "height": 834
+      },
+      "action": {
+        "type": "message",
+        "text": "面試捕手"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1657,
+        "y": 852,
+        "width": 843,
+        "height": 834
+      },
+      "action": {
+        "type": "message",
+        "text": "產業新聞"
+      }
+    }
+  ]
+}
